@@ -25,7 +25,10 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebFormAssign", "..\..\WebF
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "59694"
+		SlnRelativePath = "..\..\WebFormAssign\"
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LectureExamples", "..\..\..\..\FIT 5192-M2\Tutorial\FIT5192_LectureExamples\LectureExamples\LectureExamples.csproj", "{ED602BB9-CBB3-498C-96B5-20229B0FC19C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +48,10 @@ Global
 		{090F9299-593D-488A-8E96-6E04C30A2629}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{090F9299-593D-488A-8E96-6E04C30A2629}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{090F9299-593D-488A-8E96-6E04C30A2629}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{ED602BB9-CBB3-498C-96B5-20229B0FC19C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED602BB9-CBB3-498C-96B5-20229B0FC19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED602BB9-CBB3-498C-96B5-20229B0FC19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED602BB9-CBB3-498C-96B5-20229B0FC19C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

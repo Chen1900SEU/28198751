@@ -1,0 +1,49 @@
+﻿.head {
+    align-content: center;
+    align-items: center;
+    background-color: darkorange;
+    height: 50px;
+    padding-left: 200px;
+}
+
+
+.body{
+    align-content:center;
+    align-items:center;
+}
+.SiteMapPath {
+    background-color: white;
+    height: 60px;
+    padding-left: 210px;
+}
+.topic{
+    align-content:center;
+}
+
+.topic-text{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+.head-log{
+    float:left;
+}
+.head-menu{
+    margin-top:5px;
+    float:left;    
+    display:flex;
+
+}
+.head-register {
+    float: left;
+    margin-top: 14px;
+    padding-left: 8px;
+    display: flex;
+}
+.head-login {
+    float: left;
+    margin-top: 14px;
+    padding-left: 108px;
+    display: flex;
+}
+
